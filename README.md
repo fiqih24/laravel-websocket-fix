@@ -1,6 +1,6 @@
 # laravel-websocket-fix
 **sory bad english**<br>
--this file is for version laravel 5.8 ++ which getting error when run <br>
+-this file is for version of laravel 5.8 ++ which getting error when run <br>
 <code> php artisan websocket:serve </code><br>
 and getting error message 
 *Class BeyondCode\LaravelWebSockets\Statistics\DnsResolver may not inherit from final class (React\Dns\Resolver\Resolver)*<br>
