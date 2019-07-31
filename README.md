@@ -1,5 +1,5 @@
 # laravel-websocket-fix
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://instagram.com/liufiq)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.instagram.com/liufiq)
 <br>
 **sory bad english**<br>
 -this file is for version of laravel 5.8 ++ which getting error when run <br>
